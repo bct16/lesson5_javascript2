@@ -13,7 +13,7 @@ Chris Thornton
 This assignment we created a calculator that will show the exchange rate of the USD to 15 different currencies.
 
 ### View Project:
-https://github.com/bct16/lesson5_javascript2
+https://bct16.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
 1. Case values must have quotes around values, even if they are numbers.
