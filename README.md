@@ -13,12 +13,10 @@ Chris Thornton
 This assignment we created a calculator that will show the exchange rate of the USD to 15 different currencies.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://github.com/bct16/lesson5_javascript2
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Case values must have quotes around values, even if they are numbers.
+2. Functions must be contained within a script element.
+3. Functions don't have to have a name if they are only going to be used once.
 
-# lesson5_javascript2
